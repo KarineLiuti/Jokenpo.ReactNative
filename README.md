@@ -1,5 +1,5 @@
-# Random Counter with React Native
-Counter with React Native - Udemy Course
+# Jokenpo game with React Native
+Jokenpo game with React Native - Udemy Course
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ This project was made only for android devices.
 Clone this project
 
 ```
-git clone https://github.com/KarineLiuti/Counter.ReactNative.git
+git clone https://github.com/KarineLiuti/Jokenpo.ReactNative.git
 ```
 
 ## Running the project
@@ -29,6 +29,8 @@ After do it, run
 ```
 react-native run-android
 ```
+
+### Enjoy it!
 
 ## Authors
 
